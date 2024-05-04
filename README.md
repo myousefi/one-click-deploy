@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 One Click Deploy
 ================
@@ -292,5 +291,3 @@ This repository aims to streamline and de-stress every phase of AI project devel
 * [(1) Install Docker](https://docs.docker.com/engine/install/)
 * [(2) NVIDIA’s CUDA toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
 * [(3) myaccount.google.com](https://myaccount.google.com/)
-
->>>>>>> 1132824 (added files for templates)
