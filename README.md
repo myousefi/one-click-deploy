@@ -1,1 +1,1 @@
-# batteries-included-ai-deployment
+# one-click-deploy
