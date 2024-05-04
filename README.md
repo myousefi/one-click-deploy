@@ -2,6 +2,10 @@
 One Click Deploy
 ================
 
+![Screenshot of the API dashboard with many different graphs shown](images/api.png)
+
+![Screenshot of the GPU dashboard with many different graphs shown](images/gpu.png)
+
 ### Instant AI Setup & Deployment
 
 This repository delivers an all-in-one, container-based workflow for running AI models, packed with a top-notch developer environment right out of the gate. With just a few commands, you’ll pull down a model, spin up an API, run tests, apply code-quality checks, and deploy into production—complete with observability, metrics, logs, and email alerts.
@@ -284,10 +288,3 @@ Wrap-Up
 -------
 
 This repository aims to streamline and de-stress every phase of AI project development—model retrieval, environment setup, testing, logging, metrics, debugging, and automated deployment. It’s all here and runs consistently thanks to Docker. Fork or clone this repo, customize it to your heart’s content, and go build something amazing. If you improve it, feel free to submit a PR!
-
----
-**Sources:**
-
-* [(1) Install Docker](https://docs.docker.com/engine/install/)
-* [(2) NVIDIA’s CUDA toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
-* [(3) myaccount.google.com](https://myaccount.google.com/)
